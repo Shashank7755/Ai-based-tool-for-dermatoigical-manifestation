@@ -1,4 +1,4 @@
-# Ai-based-tool-for-dermatoigical-manifestation
+# Ai-based-tool-for-dermatological-manifestation
 {
   "cells": [
     {
